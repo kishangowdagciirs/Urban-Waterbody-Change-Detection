@@ -1,0 +1,43 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
+# Generated application outputs and temporary downloads
+outputs/
+results/
+temp/
+tmp/
+cache/
+downloads/
+
+# Large generated raster/intermediate files
+*.tif
+*.tiff
+*.jp2
+*.img
+*.aux.xml
+*.ovr
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
